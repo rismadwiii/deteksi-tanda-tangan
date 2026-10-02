@@ -1,0 +1,40 @@
+HASIL DETEKSI TANDA TANGAN
+========================================
+Area Threshold = 1.00%
+
+Gambar 01
+Area tanda tangan : 2.00%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------
+Gambar 02
+Area tanda tangan : 1.98%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------
+Gambar 03
+Area tanda tangan : 3.80%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------
+Gambar 04
+Area tanda tangan : 1.89%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------
+Gambar 05
+Area tanda tangan : 2.78%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------
+Gambar 06
+Area tanda tangan : 2.34%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------
+Gambar 07
+Area tanda tangan : 2.06%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------
+Gambar 08
+Area tanda tangan : 2.20%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------
+Gambar 09
+Area tanda tangan : 2.10%
+Hasil deteksi     : SIGNATURE PRESENT
+----------------------------------------

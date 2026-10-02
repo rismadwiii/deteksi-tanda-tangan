@@ -1,0 +1,48 @@
+HASIL LUAS AREA TANDA TANGAN
+========================================
+
+Gambar 01
+Total pixel       : 10690588
+Pixel tanda tangan: 213456
+Persentase area   : 2.00%
+----------------------------------------
+Gambar 02
+Total pixel       : 11063988
+Pixel tanda tangan: 218997
+Persentase area   : 1.98%
+----------------------------------------
+Gambar 03
+Total pixel       : 10890948
+Pixel tanda tangan: 413324
+Persentase area   : 3.80%
+----------------------------------------
+Gambar 04
+Total pixel       : 11046348
+Pixel tanda tangan: 209164
+Persentase area   : 1.89%
+----------------------------------------
+Gambar 05
+Total pixel       : 9767448
+Pixel tanda tangan: 271415
+Persentase area   : 2.78%
+----------------------------------------
+Gambar 06
+Total pixel       : 9421941
+Pixel tanda tangan: 220715
+Persentase area   : 2.34%
+----------------------------------------
+Gambar 07
+Total pixel       : 10609141
+Pixel tanda tangan: 219000
+Persentase area   : 2.06%
+----------------------------------------
+Gambar 08
+Total pixel       : 10323588
+Pixel tanda tangan: 227448
+Persentase area   : 2.20%
+----------------------------------------
+Gambar 09
+Total pixel       : 12406272
+Pixel tanda tangan: 260136
+Persentase area   : 2.10%
+----------------------------------------
