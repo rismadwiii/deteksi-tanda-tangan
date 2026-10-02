@@ -4,8 +4,6 @@ NAMA : RISMA DWI AZ-ZAHRA
 NIM : F1G124016
 KELAS : B
 
-# Mini-Project: Deteksi Tanda Tangan Rektor (Signature Detection)
-
 Proyek ini merupakan implementasi sederhana dari pengolahan citra untuk mendeteksi keberadaan tanda tangan Rektor pada dokumen menggunakan Python dan OpenCV. Proses deteksi dilakukan dengan mengambil area tanda tangan dari dokumen, kemudian melakukan beberapa tahap pengolahan citra seperti grayscale, thresholding, dan morphology. Hasil dari proses tersebut digunakan untuk menghitung luas area tanda tangan dan menentukan apakah tanda tangan terdeteksi atau tidak.
 
 ## Alur Pemrosesan (Pipeline)
@@ -60,4 +58,4 @@ Pada project ini digunakan Global Threshold dan Otsu Threshold. Hasil thresholdi
 
 - Solusi yang Diterapkan: Penggunaan Global Threshold dan Otsu Threshold, kemudian dilanjutkan dengan proses morphology dan perhitungan area. Pada project ini digunakan batas area sebesar 1% sebagai dasar untuk menentukan hasil deteksi. Berdasarkan hasil pengujian, seluruh 9 gambar berhasil terdeteksi sebagai SIGNATURE PRESENT dengan luas area berada pada kisaran 1.73%–3.58%.
 
-Secara keseluruhan, tahapan pengolahan citra yang digunakan dapat membantu sistem dalam memisahkan area tanda tangan dari background dan melakukan deteksi berdasarkan luas area yang diperoleh.
+
