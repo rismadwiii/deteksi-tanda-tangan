@@ -2,7 +2,7 @@
 Deteksi tanda tangan Rektor menggunakan Python dan OpenCV
 NAMA : RISMA DWI AZ-ZAHRA
 NIM : F1G124016
-KELAS : A
+KELAS : B
 
 # Mini-Project: Deteksi Tanda Tangan Rektor (Signature Detection)
 
